@@ -5,7 +5,7 @@ function Questao2() {
     <div className="Questao2">
       <div className="description">
         <div className="user">
-          <img src="./Foto.png"/>
+          <img src="./Foto.png" alt="Foto do usuário"/>
           <h1>Guilherme</h1>
         </div>
         
